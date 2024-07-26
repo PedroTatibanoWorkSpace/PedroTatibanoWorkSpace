@@ -39,5 +39,5 @@
   <li>🎮 Jogar</li>
 </ul>
 <div align="center">
-  <p>Vamos nos conectar e construir algo incrível juntos!</p>
+  <p>Vamos nessa! :)</p>
 </div>
