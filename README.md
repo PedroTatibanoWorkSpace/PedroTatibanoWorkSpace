@@ -18,7 +18,7 @@
 </ul>
 <h2>No que Estou Trabalhando</h2>
 <ul>
-  <li>🔭 Atualmente estou trabalhando em vários projetos pessoais e acadêmicos.</li>
+  <li>🔭 Atualmente trabalho na CodeSuite, uma empresa de software de Itapeva</li>
   <li>👯 Estou procurando colaborar em projetos inovadores que façam a diferença.</li>
 </ul>
 <h2>Como Me Encontrar</h2>
