@@ -1,6 +1,6 @@
 <h1>Olá 👋</h1>
 <div align="center">
-  <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="GIF de Programador" width="500"/>
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="GIF de Programador" width="500"/>
 </div>
 <h2>Sobre Mim</h2>
 <p>Eu sou <strong>Pedro Tatibano</strong>, um estudante de Engenharia da Computação de 19 anos, apaixonado por desenvolvimento de software, sou do interior de SP.</p>
