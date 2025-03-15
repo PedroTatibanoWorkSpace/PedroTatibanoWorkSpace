@@ -4,27 +4,23 @@
 </div>
 
 <h2>Sobre Mim</h2>
-<p>Eu sou <strong>Pedro Tatibano</strong>, estudante de Engenharia da Computação, tenho 19 anos e sou apaixonado por desenvolvimento de software. Sou natural do interior de SP e estou sempre em busca de evoluir no que faço.</p>
+<p>
+  Eu sou <strong>Pedro Tatibano</strong>, tenho 19 anos e sou apaixonado por tecnologia. Comecei a programar em 2021 e, desde então, venho me desafiando em cada projeto. Atualmente, curso Bacharelado em Engenharia da Computação e sou técnico em Desenvolvimento de Sistemas. Trabalho na <strong>Code Suite</strong> como Back-End Engineer, onde aplico meus conhecimentos em Nest.js, TypeScript, TypeORM, RabbitMQ e outras tecnologias. Meu foco é criar APIs com uma arquitetura escalável, sempre buscando soluções eficientes e de impacto. Além disso, adoro arquiteturas e estou sempre explorando novas formas de estruturar sistemas de maneira robusta e manutenível.
+</p>
 
+<h2>Minhas Habilidades</h2>
 <ul>
-  <li>🎓 Atualmente, curso Bacharelado em Engenharia da Computação.</li>
-  <li>🎓 Concluí um curso técnico em Desenvolvimento de Sistemas.</li>
-  <li>💻 Minhas habilidades incluem:
-    <ul>
-      <li><strong>Backend</strong>: NestJS, NodeJS, TypeScript, Java, Spring Boot</li>
-      <li><strong>Banco de Dados</strong>: PostgreSQL, MySQL, MongoDB</li>
-      <li><strong>Software Craftsmanship</strong>: DDD, TDD, Arquitetura Hexagonal, Clean Code</li>
-      <li><strong>Frontend</strong>: Next, TypeScript</li>
-      <li><strong>Desenvolvimento Mobile</strong>: Kotlin, Jetpack Compose, React Native</li>
-    </ul>
-  </li>
-  <li>🌱 Sempre disposto a aprender novas tecnologias e aprimorar minhas habilidades.</li>
+  <li><strong>Backend</strong>: NestJS, NodeJS, TypeScript, Java, Spring Boot</li>
+  <li><strong>Banco de Dados</strong>: PostgreSQL, MySQL, MongoDB</li>
+  <li><strong>Software Craftsmanship</strong>: DDD, TDD, Arquitetura Hexagonal, Clean Code</li>
+  <li><strong>Frontend</strong>: Next.js, TypeScript</li>
+  <li><strong>Desenvolvimento Mobile</strong>: Kotlin, Jetpack Compose, React Native</li>
 </ul>
 
 <h2>No Que Estou Trabalhando</h2>
 <ul>
   <li>🔭 Atualmente, trabalho na CodeSuite, uma empresa de software em Itapeva.</li>
-  <li>👯 Estou aberto a colaborações em projetos inovadores que realmente façam a diferença.</li>
+  <li>👯 Estou aberto a colaborações em projetos inovadores que façam a diferença.</li>
 </ul>
 
 <h2>Como Me Encontrar</h2>
