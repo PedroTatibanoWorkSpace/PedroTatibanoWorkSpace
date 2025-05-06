@@ -19,9 +19,11 @@
 
 <h2>No Que Estou Trabalhando</h2>
 <ul>
-  <li>🔭 Atualmente, trabalho na CodeSuite, uma empresa de software em Itapeva.</li>
+  <li>🔭 Atualmente, trabalho na AdHaus, uma empresa de software em Itapeva.</li>
   <li>👯 Estou aberto a colaborações em projetos inovadores que façam a diferença.</li>
 </ul>
+
+<img src="https://raw.githubusercontent.com/PedroTatibanoWorkSpace/PedroTatibanoWorkSpace/main/profile-3d-contrib/profile-night-green.svg" alt="GitHub Status" />
 
 <h2>Como Me Encontrar</h2>
 <div align="center">
@@ -33,15 +35,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
-
-<h2>Curiosidades</h2>
-<p>⚡ Estou sempre empolgado para explorar novas linguagens de programação e frameworks.</p>
-
-<h2>Meus Hobbies</h2>
-<ul>
-  <li>🎸 Curtir um bom Rock/Metal</li>
-  <li>🎮 Jogar e relaxar</li>
-</ul>
 
 <div align="center">
   <p>Vamos nessa! :)</p>
