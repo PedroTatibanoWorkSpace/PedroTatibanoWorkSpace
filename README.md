@@ -5,29 +5,33 @@
 
 <h2>Sobre Mim</h2>
 <p>
-  Eu sou <strong>Pedro Tatibano</strong>, tenho 19 anos e sou apaixonado por tecnologia. Comecei a programar em 2021 e, desde então, venho me desafiando em cada projeto. Atualmente, curso Bacharelado em Engenharia da Computação e sou técnico em Desenvolvimento de Sistemas. Trabalho na <strong>Code Suite</strong> como Back-End Engineer, onde aplico meus conhecimentos em Nest.js, TypeScript, TypeORM, RabbitMQ e outras tecnologias. Meu foco é criar APIs com uma arquitetura escalável, sempre buscando soluções eficientes e de impacto. Além disso, adoro arquiteturas e estou sempre explorando novas formas de estruturar sistemas de maneira robusta e manutenível.
+  Sou <strong>Pedro Tatibano</strong>, 19 anos, Back-End Engineer com foco em soluções robustas, escaláveis e bem arquitetadas. Desde 2021, venho mergulhando no universo do desenvolvimento de software com uma abordagem prática, estratégica e sempre orientada a resultados.  
+  <br><br>
+  Atualmente, atuo na <strong>Code Suite</strong> aplicando tecnologias como NestJS, TypeScript, RabbitMQ e TypeORM, com forte ênfase em arquitetura limpa, mensageria e design de sistemas resilientes. Também curso Engenharia da Computação e tenho formação técnica em Desenvolvimento de Sistemas.  
+  <br><br>
+  Sou movido por desafios técnicos e fascinado por arquiteturas sólidas. Busco sempre elevar o padrão das soluções que entrego, focando em performance, organização e clareza.
 </p>
 
 <h2>Minhas Habilidades</h2>
 <ul>
-  <li><strong>Backend</strong>: NestJS, NodeJS, TypeScript, Java, Spring Boot</li>
+  <li><strong>Backend</strong>: NestJS, NodeJS, TypeScript, Express</li>
   <li><strong>Banco de Dados</strong>: PostgreSQL, MySQL, MongoDB</li>
   <li><strong>Software Craftsmanship</strong>: DDD, TDD, Arquitetura Hexagonal, Clean Code</li>
   <li><strong>Frontend</strong>: Next.js, TypeScript</li>
-  <li><strong>Desenvolvimento Mobile</strong>: Kotlin, Jetpack Compose, React Native</li>
+  <li><strong>Desenvolvimento Mobile</strong>React Native</li>
 </ul>
 
 <h2>No Que Estou Trabalhando</h2>
 <ul>
-  <li>🔭 Atualmente, trabalho na AdHaus, uma empresa de software em Itapeva.</li>
-  <li>👯 Estou aberto a colaborações em projetos inovadores que façam a diferença.</li>
+  <li> Atualmente, trabalho na AdHaus, uma empresa de software em Itapeva.</li>
+  <li> Aberto a colaborações em produtos que entreguem valor real, com base técnica sólida.</li>
 </ul>
 
 <img src="https://raw.githubusercontent.com/PedroTatibanoWorkSpace/PedroTatibanoWorkSpace/main/profile-3d-contrib/profile-night-green.svg" alt="GitHub Status" />
 
 <h2>Como Me Encontrar</h2>
 <div align="center">
-  <p>Este é o meu perfil do GitHub, que também funciona como minha página profissional. Fique à vontade para entrar em contato:</p>
+  <p>Esse GitHub é meu cartão de visita técnico. Bora trocar ideia?</p>
   <a href="https://www.linkedin.com/in/pedro-tatibano/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -37,5 +41,5 @@
 </div>
 
 <div align="center">
-  <p>Vamos nessa! :)</p>
+  <p>Vamos nessa! 🚀</p>
 </div>
