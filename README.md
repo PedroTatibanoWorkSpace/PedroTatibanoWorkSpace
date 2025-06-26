@@ -18,7 +18,7 @@
   <li><strong>Banco de Dados</strong>: PostgreSQL, MySQL, MongoDB</li>
   <li><strong>Software Craftsmanship</strong>: DDD, TDD, Arquitetura Hexagonal, Clean Code</li>
   <li><strong>Frontend</strong>: Next.js, TypeScript</li>
-  <li><strong>Desenvolvimento Mobile</strong>React Native</li>
+  <li><strong>Desenvolvimento Mobile</strong>: React Native</li>
 </ul>
 
 <h2>No Que Estou Trabalhando</h2>
