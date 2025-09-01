@@ -23,8 +23,7 @@
 
 <h2>No Que Estou Trabalhando</h2>
 <ul>
-  <li> Atualmente, trabalho na AdHaus, uma empresa de software em Itapeva.</li>
-  <li> Aberto a colaborações em produtos que entreguem valor real, com base técnica sólida.</li>
+  <li> Atualmente, trabalho na ClickCannabis🍁, uma healthtech do Rio Janeiro</li>
 </ul>
 
 <img src="https://raw.githubusercontent.com/PedroTatibanoWorkSpace/PedroTatibanoWorkSpace/main/profile-3d-contrib/profile-night-green.svg" alt="GitHub Status" />
