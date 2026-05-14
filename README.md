@@ -5,7 +5,7 @@
 
 <h2>Sobre Mim</h2>
 <p>
-  Sou <strong>Pedro Tatibano</strong>, 20 anos, Back-End Engineer com foco em soluções robustas, escaláveis e bem arquitetadas. Desde 2021, venho mergulhando no universo do desenvolvimento de software com uma abordagem prática, estratégica e sempre orientada a resultados.  
+  Sou <strong>Pedro Tatibano</strong>, 20 anos, Software Engineer com foco em soluções robustas, escaláveis e bem arquitetadas. Desde 2021, venho mergulhando no universo do desenvolvimento de software com uma abordagem prática, estratégica e sempre orientada a resultados.  
   <br><br>
   Atualmente, atuo na <strong>ClickCannabis</strong> aplicando tecnologias como NestJS, AdonisJS, TypeScript, Kafka, com forte ênfase em arquitetura limpa, mensageria e design de sistemas resilientes. Também curso Engenharia da Computação e tenho formação técnica em Desenvolvimento de Sistemas.  
   <br><br>
